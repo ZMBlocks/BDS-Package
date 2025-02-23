@@ -13,15 +13,14 @@ BDS 整合包，一键安装+配置 BDS
 4. 安装整合包 → `lip install -y github.com/ZMBlocks/BDS-Package`
 
 ## 安装列表
-
-- [7-zip(命令行式压缩工具)](https://gitea.litebds.com/ShrBox/7-zip)
-- [BDS(服务端本体)](ithub.com/LiteLDev/bds)
+<!-- - [7-zip(命令行式压缩工具)](https://gitea.litebds.com/ShrBox/7-zip) -->
+- [BDS(服务端本体)](https://github.com/LiteLDev/bds)
 - [PreLoader(预加载工具)](https://github.com/LiteLDev/PeEditor)
 - [MagicBlob(BDS运行数据)](https://github.com/LiteLDev/bedrock-runtime-data)
 - [LeviLamina(Native 插件加载器)](https://github.com/LiteLDev/LeviLamina)
 - [CrashLogger(崩溃信息收集/崩溃日志)](https://github.com/LiteLDev/CrashLogger)
 - [LeviLamina-loc(LeviLamina 语言包)](https://github.com/LiteLDev/levilamina-loc)
-- [legacy-script-engine-lua(Lua 插件加载器)](https://gitea.litebds.com/LiteLDev/legacy-script-engine-lua)
+<!-- - [legacy-script-engine-lua(Lua 插件加载器)](https://gitea.litebds.com/LiteLDev/legacy-script-engine-lua)
 - [legacy-script-engine-nodejs(NodeJS 插件加载器)](https://gitea.litebds.com/LiteLDev/legacy-script-engine-nodejs)
 - [legacy-script-engine-quickjs(QuickJS 插件加载器)](https://gitea.litebds.com/LiteLDev/legacy-script-engine-quickjs)
 - [node-binaries(NodeJS 运行环境)](https://gitea.litebds.com/LiteLDev/node-binaries)
@@ -34,7 +33,7 @@ BDS 整合包，一键安装+配置 BDS
 - [LeviOptimize(BDS 优化插件)](https://github.com/LiteLDev/LeviOptimize)
 - [more-dimensions(多维度插件)](https://github.com/LiteLDev/MoreDimensions)
 - [iListenAttentively(事件前置库)](https://github.com/MiracleForest/iListenAttentively-Release)
-- [BackupHelper(热备份)](https://github.com/ShrBox/BackupHelper)
+- [BackupHelper(热备份)](https://github.com/ShrBox/BackupHelper) -->
 
 ## 命令帮助
 
@@ -71,7 +70,7 @@ BDS 整合包，一键安装+配置 BDS
       - `ll reactivate GMLIB` - 重新激活 GMLIB 插件(disable 再 enable)
     - `ll list` - 列出所有已加载的 Mod
       - `ll list` - 列出所有已加载的 Mod
-- LegacyMoney
+<!-- - LegacyMoney
   - `money` - 经济系统命令
     - `/money <adds|reduces|sets> <玩家选择器> <金额>` - 增加/减少/设置金额(目标选择器)
       - `/money adds @p 100` - 给最近玩家增加 100 金额
@@ -135,4 +134,4 @@ BDS 整合包，一键安装+配置 BDS
   - `jsdebug` - QuickJS 代码调试命令
     - `/jsdebug [代码]` - 调试代码
       - `/jsdebug` - 进入 QuickJS 代码调试模式
-      - `/jsdebug log("Hello World!")` - 调试代码`log("Hello World!")`
+      - `/jsdebug log("Hello World!")` - 调试代码`log("Hello World!")` -->

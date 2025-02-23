@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/ZMBlocks/BDS-Package",
-    "version": "1.1.3",
+    "version": "1.1.4-rc,1",
     "info": {
         "name": "BDS整合包",
         "description": "一键安装+配置BDS基础设施",
@@ -16,15 +16,7 @@
     },
     "asset_url": "https://github.com/ZMBlocks/BDS-Package/releases/download/v$(version)/other.zip",
     "dependencies": {
-        "github.com/LiteLDev/LeviLamina": "1.0.1",
-        "gitea.litebds.com/LiteLDev/legacy-script-engine-quickjs": "0.9.7",
-        "gitea.litebds.com/LiteLDev/legacy-script-engine-lua": "0.9.7",
-        "gitea.litebds.com/LiteLDev/legacy-script-engine-nodejs": "0.9.7",
-        "github.com/LiteLDev/MoreDimensions": "0.5.0",
-        "github.com/LiteLDev/LeviOptimize": "0.4.0",
-        "github.com/LiteLDev/LeviAntiCheat": "0.4.5",
-        "github.com/MiracleForest/iListenAttentively-Release": "0.2.3",
-        "github.com/ShrBox/BackupHelper": "0.6.1"
+        "github.com/LiteLDev/LeviLamina": "1.1.0-rc.1"
     },
     "files": {
         "place": [
