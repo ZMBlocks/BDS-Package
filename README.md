@@ -31,9 +31,9 @@ BDS 整合包，一键安装+配置 BDS
 - [GMLIB-LegacyRemoteCallApi(GMLIB 的 LSE 插件兼容)](https://github.com/GroupMountain/GMLIB-LegacyRemoteCallApi)
 - [LeviAntiCheat(Lac 反作弊)](https://github.com/LiteLDev/LeviAntiCheat)
 - [LeviOptimize(BDS 优化插件)](https://github.com/LiteLDev/LeviOptimize)
-- [more-dimensions(多维度插件)](https://github.com/LiteLDev/MoreDimensions)
+- [more-dimensions(多维度插件)](https://github.com/LiteLDev/MoreDimensions) -->
 - [iListenAttentively(事件前置库)](https://github.com/MiracleForest/iListenAttentively-Release)
-- [BackupHelper(热备份)](https://github.com/ShrBox/BackupHelper) -->
+<!-- - [BackupHelper(热备份)](https://github.com/ShrBox/BackupHelper) -->
 
 ## 命令帮助
 

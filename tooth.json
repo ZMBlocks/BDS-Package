@@ -16,7 +16,9 @@
     },
     "asset_url": "https://github.com/ZMBlocks/BDS-Package/releases/download/v$(version)/other.zip",
     "dependencies": {
-        "github.com/LiteLDev/LeviLamina": "1.1.0-rc.1"
+        "github.com/LiteLDev/LeviLamina": "1.1.0-rc.1",
+        "github.com/MiracleForest/iListenAttentively-Release": "0.3.0"
+
     },
     "files": {
         "place": [
